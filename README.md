@@ -12,13 +12,12 @@
       <br>
   </samp>
 </div>
-
       
 <br>
 <br>
       
 <div align="center">
-  <img src="https://imgur.com/MdYgpN0.gif" width="200">
+  <img src="https://imgur.com/5yZ3Xv8" width="200">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/mooncakke_♡-black" />
