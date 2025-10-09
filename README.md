@@ -10,9 +10,6 @@
       <br>
   </samp>
 </div>
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fmooncakke&s=21&c=bf91f3&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
-</div>
       
 <br>
 <br>
@@ -40,6 +37,9 @@
   <br>
 
 <div align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mooncakke&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700)](https://git.io/streak-stats)
+
   <img
     height=165
     align="center"
@@ -50,7 +50,7 @@
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooncakke&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=mooncakke&show_icons=true&hide=contribs_&hide_border=true&theme,prs&cache_seconds=86400&theme=tokyonight"
   />
   <br>
   <br>
