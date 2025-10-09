@@ -120,17 +120,17 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mooncakke/mooncakke/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mooncakke/mooncakke/output/snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/mooncakke/mooncakke/output/snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mooncakke/mooncakke/snake-output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mooncakke/mooncakke/snake-output/snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/mooncakke/mooncakke/snake-output/snake.svg">
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mooncakke/mooncakke/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mooncakke/mooncakke/output/pacman-contribution-graph.svg">
-    <img alt="Pacman animation" src="https://raw.githubusercontent.com/mooncakke/mooncakke/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mooncakke/mooncakke/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mooncakke/mooncakke/pacman-output/pacman-contribution-graph.svg">
+    <img alt="Pacman animation" src="https://raw.githubusercontent.com/mooncakke/mooncakke/pacman-output/pacman-contribution-graph.svg">
   </picture>
 </div>
 
