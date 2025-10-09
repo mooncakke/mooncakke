@@ -7,9 +7,12 @@
     </b>
       <br>
       Hi there! I'm mooncakke 🦄
+      <br>  
+    <img src="https://komarev.com/ghpvc/?username=mooncakke&color=blueviolet" alt="Profile views" />
       <br>
   </samp>
 </div>
+
       
 <br>
 <br>
