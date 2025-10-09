@@ -125,10 +125,22 @@
 
 ##
 
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mooncakke/mooncakke/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mooncakke/mooncakke/output/pacman-contribution-graph.svg">
+  <img align="center" alt="pacman contribution graph" src="https://raw.githubusercontent.com/mooncakke/mooncakke/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
 </details>
 
 <br>
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7C4585&height=100&section=footer"/>
+
+
 
