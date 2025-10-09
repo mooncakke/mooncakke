@@ -50,7 +50,7 @@
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api?username=mooncakke&show_icons=true&hide=contribs_&hide_border=true&theme,prs&cache_seconds=86400&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooncakke&layout=compact&langs_count=16&hide_border=true&theme=tokyonight&font=Iosevka"
   />
   <br>
   <br>
