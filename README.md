@@ -26,7 +26,7 @@
 
 <br>
 
-<details align="center">  
+<div align="center">  
   <summary>
       <samp>
         <b>More Info</b>
