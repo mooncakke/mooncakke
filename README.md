@@ -1,22 +1,22 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7C4585"/>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 40px;">
-
-  <!-- Lado esquerdo -->
-  <div align="left">
-    <samp>
-      <b>デザイナー</b><br>
-      Hi there! I'm mooncakke 🦄<br>
-      <img src="https://komarev.com/ghpvc/?username=mooncakke&color=blueviolet" alt="Profile views" />
-    </samp>
-  </div>
-
-  <!-- Lado direito -->
-  <div align="right">
-    <img src="https://i.imgur.com/5yZ3Xv8.gif" width="180" alt="mooncakke gif"><br>
-    <img src="https://img.shields.io/badge/mooncakke_♡-black" />
-  </div>
-
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" style="border: none;">
+    <tr>
+      <td valign="middle" align="center" style="border: none;">
+        <samp>
+          <b>デザイナー</b><br>
+          Hi there! I'm mooncakke 🦄<br>
+          <img src="https://komarev.com/ghpvc/?username=mooncakke&color=blueviolet" alt="Profile views" />
+        </samp>
+      </td>
+      <td width="250" style="border: none;"></td>
+      <td valign="top" align="center" style="border: none;">
+        <img src="https://i.imgur.com/5yZ3Xv8.gif" width="180" alt="mooncakke gif"><br>
+        <img src="https://img.shields.io/badge/mooncakke_♡-black" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
