@@ -25,15 +25,20 @@
 </div>
 
 <br>
-
-<div align="center">  
-  <summary>
+<div align="center">
+  <details>
+    <summary style="text-align: center; list-style-position: inside;">
       <samp>
         <b>More Info</b>
       </samp>
-  </summary>
-  
-  <br>
+    </summary>
+    
+    <br>
+    <!-- seu conteúdo aqui -->
+    
+  </details>
+</div>
+
 
 <div align="center">
 
