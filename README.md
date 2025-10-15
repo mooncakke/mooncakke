@@ -12,7 +12,7 @@
       </td>
       <td width="250" style="border: none;"></td>
       <td valign="top" align="center" style="border: none;">
-        <img src="https://i.imgur.com/5yZ3Xv8.gif" width="180" alt="mooncakke gif"><br>
+        <img src="https://i.imgur.com/5yZ3Xv8.png" width="180" alt="mooncakke gif"><br>
         <img src="https://img.shields.io/badge/mooncakke_♡-black" />
       </td>
     </tr>
