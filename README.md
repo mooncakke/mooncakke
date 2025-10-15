@@ -1,27 +1,24 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7C4585"/>
 
-<div align="center">
-  <samp>
-    <b>
-      デザイナー
-    </b>
-      <br>
-      Hi there! I'm mooncakke 🦄
-      <br>  
-    <img src="https://komarev.com/ghpvc/?username=mooncakke&color=blueviolet" alt="Profile views" />
-      <br>
-  </samp>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 40px;">
+
+  <!-- Lado esquerdo -->
+  <div align="left">
+    <samp>
+      <b>デザイナー</b><br>
+      Hi there! I'm mooncakke 🦄<br>
+      <img src="https://komarev.com/ghpvc/?username=mooncakke&color=blueviolet" alt="Profile views" />
+    </samp>
+  </div>
+
+  <!-- Lado direito -->
+  <div align="right">
+    <img src="https://i.imgur.com/5yZ3Xv8.gif" width="180" alt="mooncakke gif"><br>
+    <img src="https://img.shields.io/badge/mooncakke_♡-black" />
+  </div>
+
 </div>
-      
-<br>
-<br>
-      
-<div align="center">
-  <img src="https://i.imgur.com/5yZ3Xv8.gif" width="200">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/mooncakke_♡-black" />
-</div>
+
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&center=true&vCenter=true&width=435&lines=Sejam+bem+vindes!+%E2%9C%A8;Me+chamo+Lyra%2C+sou+Designer;com+uma+paixonite+por+programa%C3%A7%C3%A3o!;Aquariana%2C+INFP-T%2C+LGBTQIAPN%2B+%F0%9F%A6%84&color=b96eff&cursorColor=b96eff" alt="Typing SVG"/>
