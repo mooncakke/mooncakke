@@ -7,7 +7,7 @@
         <samp>
           <b>デザイナー</b><br>
           Hi there! I'm mooncakke 🦄<br>
-          <img src="https://komarev.com/ghpvc/?username=mooncakke&color=blueviolet" alt="Profile views" />
+          <img src="https://komarev.com/ghpvc/?username=mooncakke&color=7C4585" alt="Profile views" />
         </samp>
       </td>
       <td width="250" style="border: none;"></td>
@@ -137,11 +137,6 @@
 
 <br>
 
-<div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=mooncakke&style=flat-square&color=7C4585" /></p> 
-</div>
-
-<br>
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7C4585&height=100&section=footer"/>
