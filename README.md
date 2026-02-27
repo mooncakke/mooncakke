@@ -27,6 +27,12 @@
 <br>
 <br>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/lyra_♡-black" />
+</div>
+      
+<br>
+
 <details align="center">  
   <summary>
       <samp>
@@ -45,20 +51,8 @@
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=mooncakke&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700)](https://git.io/streak-stats)
 
-  <img
-    height=165
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=mooncakke&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&font=Iosevka"
-  />
-  <img
-    height=165
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooncakke&layout=compact&langs_count=16&hide_border=true&theme=tokyonight&font=Iosevka"
-  />
   <br>
-  <br>
+  
   <img
     align="center"
     alt="Top Language"
@@ -138,6 +132,14 @@
 
 
 </details>
+
+##
+
+<br>
+
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=mooncakke&style=flat-square&color=7C4585" /></p> 
+</div>
 
 <br>
 <br>
