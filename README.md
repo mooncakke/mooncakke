@@ -6,7 +6,7 @@
       <td valign="middle" align="center" style="border: none;">
         <samp>
           <b>デザイナー</b><br>
-          Hi there! I'm mooncakke 🦄<br>
+          Hi there! I'm May 🦄<br>
           <img src="https://komarev.com/ghpvc/?username=mooncakke&color=7C4585" alt="Profile views" />
         </samp>
       </td>
